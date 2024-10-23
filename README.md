@@ -41,7 +41,9 @@ Os arquivos são organizados nas seguintes categorias:
 ## Linux
 1 Verificar se o Python está instalado
 - Abra o terminal e digite:
+```bash
   python3 --version
+```
 
 - Se o Python não estiver instalado, você poderá usá-lo usando o gerenciador de pacotes de sua distribuição. Para Ubuntu ou Debian, use:
   sudo apt update

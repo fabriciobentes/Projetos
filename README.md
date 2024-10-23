@@ -27,36 +27,41 @@ Os arquivos são organizados nas seguintes categorias:
 ## Windows
 1 Verificar se o Python está instalado:
 - Abra o Prompt de Comando ou o PowerShell e digite:
-  python --version
+ ```bash
+ python --version
+```
   - Se o Python não estiver instalado, baixe-o no site oficial do Python: https://www.python.org/downloads/ e siga as instruções de instalação. Não se esqueça de marcar a opção "Add Python to PATH" durante a instalação.
 
 2 Navegar até a pasta onde o arquivo .py está localizado:
 - No Prompt de Comando, use o comando cd para mudar para o diretório onde está o arquivo Python.
-  cd C:\caminho\da\pasta
+  ```bash
+   cd C:\caminho\da\pasta
   
 3 Executar o arquivo .py: 
 - Após estar no diretório correto, digite o seguinte comando para executar o arquivo:
-  python organizador.py
-
+  ```bash
+   python organizador.py
+    
 ## Linux
 1 Verificar se o Python está instalado
 - Abra o terminal e digite:
 ```bash
   python3 --version
 ```
-
 - Se o Python não estiver instalado, você poderá usá-lo usando o gerenciador de pacotes de sua distribuição. Para Ubuntu ou Debian, use:
-```bater
-  sudo apt update
-  sudo apt install python3
- ```
+```bash
+   sudo apt update
+   sudo apt install python3
+```
 2 Navegue até a pasta onde o arquivo .py está localizado:
 - No terminal, use o comando cdpara mudar para o diretório onde está o arquivo Python:
+  ```bash
   cd /caminho/da/pasta
 
 3 Execute o arquivo .py:
 - Após estar no diretório correto, digite o seguinte comando para executar o arquivo:
-  python3 organizador.py
-
+ ```bash
+   python3 organizador.py
+```
 
 ## Essas instruções abrangem tanto o Windows quanto o Linux, fornecendo orientações claras para os usuários. Sinta-se à vontade para fazer ajustes ou adições conforme necessário! Se precisar de mais alguma coisa, é só avisar.

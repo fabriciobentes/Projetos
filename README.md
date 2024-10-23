@@ -41,7 +41,7 @@ Os arquivos são organizados nas seguintes categorias:
 ## Linux
 1 Verificar se o Python está instalado
 - Abra o terminal e digite:
-```bater
+```bash
   python3 --version
 ```
 

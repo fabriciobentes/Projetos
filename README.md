@@ -41,14 +41,15 @@ Os arquivos são organizados nas seguintes categorias:
 ## Linux
 1 Verificar se o Python está instalado
 - Abra o terminal e digite:
-```bash
+```bater
   python3 --version
 ```
 
 - Se o Python não estiver instalado, você poderá usá-lo usando o gerenciador de pacotes de sua distribuição. Para Ubuntu ou Debian, use:
+```bater
   sudo apt update
   sudo apt install python3
- 
+ ```
 2 Navegue até a pasta onde o arquivo .py está localizado:
 - No terminal, use o comando cdpara mudar para o diretório onde está o arquivo Python:
   cd /caminho/da/pasta

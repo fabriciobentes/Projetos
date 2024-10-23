@@ -24,7 +24,7 @@ Os arquivos são organizados nas seguintes categorias:
 
 ## Como Usar
 
-## No Windows
+## Windows
 1 Verificar se o Python está instalado:
 - Abra o Prompt de Comando ou o PowerShell e digite:
   python --version
@@ -38,7 +38,7 @@ Os arquivos são organizados nas seguintes categorias:
 - Após estar no diretório correto, digite o seguinte comando para executar o arquivo:
   python organizador.py
 
-## No linux
+## Linux
 1 Verificar se o Python está instalado
 - Abra o terminal e digite:
   python3 --version
